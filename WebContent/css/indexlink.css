@@ -1,0 +1,65 @@
+.indexLink {
+	width: 60%;
+	margin: 600px auto;
+	float: right;
+}
+
+.indexLink ul {
+	display: block;
+	list-style-type: none;
+}
+
+.indexLink ul li {
+	width: 200px;
+	text-align: center;
+	float: right;
+	margin-left: 30px;
+}
+
+.indexLink ul li a, .indexLink ul li a:visited {
+	width: 200px;
+	height: 60px;
+	text-align: center;
+	background-color: #006a91;
+	/*#90000a;*/
+	color: #FFFFFF;
+	font-family: ¿¬Ìå;
+	font-size: 18px;
+	display: block;
+	padding-top: 18px;
+	margin-bottom: 15px;
+	/*47px;*/
+	text-decoration: none;
+	/*font-weight:bold;*/
+}
+
+.indexLink ul li a:hover {
+	background-color: #F60;
+}
+
+.indexLink ul li a.brown, .indexLink ul li a.brown:visited {
+	background-color: #90000a;
+	color: #FFFFFF;
+}
+
+.indexLink ul li a.brown:hover {
+	background-color: #F60;
+}
+
+.indexLink ul li a.green, .indexLink ul li a.green:visited {
+	background-color: #7a8523;
+	color: #FFFFFF;
+}
+
+.indexLink ul li a.green:hover {
+	background-color: #F60;
+}
+
+.indexLink ul li a.orange, .indexLink ul li a.orange:visited {
+	background-color: #d5641c;
+	color: #FFFFFF;
+}
+
+.indexLink ul li a.orange:hover {
+	background-color: #F60;
+}
